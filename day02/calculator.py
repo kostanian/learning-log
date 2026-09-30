@@ -6,7 +6,6 @@ def main():
 
 
 def total (a,b):
-    print(round(a + b, 2))
-    #return round(a + b,2)
+    return round(a + b,2)
 
 main()
